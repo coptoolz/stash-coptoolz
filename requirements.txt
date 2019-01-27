@@ -1,0 +1,6 @@
+beautifulsoup4
+six==1.10.0
+discord
+requests
+lxml
+boto
